@@ -116,16 +116,16 @@ namespace GradeBook.GradeBooks
                     gpa= 4;
                     break;
                 case 'B':
-                    gpa 3;
+                    gpa=3;
                     break;
                 case 'C':
-                    gpa 2;
+                    gpa=2;
                     break;
                 case 'D':
-                    gpa 1;
+                    gpa=1;
                     break;
                 case 'F':
-                    gpa 0;
+                    gpa=0;
                     break;
             }
 
